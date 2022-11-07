@@ -55,7 +55,6 @@ Know of an awesome handbook not on this list?  Submit a pull request to add it!
 * [Gumroad][gumroad]
 * [Humanmade][humanmade]
 * [Juro][juro]
-* [Learnerbly][learnerbly]
 * [Meltano][meltano]
 * [Oyster][oyster]
 * [Posthog][posthog]
@@ -81,7 +80,6 @@ This repo is under the MIT License.
 [gumroad]: https://www.notion.so/Wiki-72663c59ed5a432a9d52accafd8f166e
 [humanmade]: https://handbook.hmn.md/
 [juro]: https://juro.notion.site/Juro-handbook-70408d22f4454e6795c72781ddbf39cd
-[learnerbly]: https://www.notion.so/Learnerbly-PX-Open-Source-e2a2382f05c74a79ac7994dd80f58111
 [meltano]: https://handbook.meltano.com/
 [oyster]: https://oysterhr.notion.site/Welcome-to-The-Reef-Oyster-s-Open-Source-Employee-Guide-fc482e3f107c4afd8c85ed217f1d0c1d
 [posthog]: https://posthog.com/handbook
